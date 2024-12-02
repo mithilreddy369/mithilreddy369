@@ -10,15 +10,15 @@
 
 
 <a href="https://github.com/mithilreddy369/Heart-Disease-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithilreddy369&repo=Heart-Disease-Prediction" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithilreddy369&theme=radical&hide_border=true&repo=Heart-Disease-Prediction" />
 </a>
 <a href="https://github.com/mithilreddy369/Immersive-Google-Classroom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithilreddy369&repo=Immersive-Google-Classroom" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithilreddy369&theme=radical&hide_border=true&repo=Immersive-Google-Classroom" />
 </a>
 <a href="https://github.com/mithilreddy369/Tic-Tac-Toe-Web-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithilreddy369&repo=Tic-Tac-Toe-Web-Game" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithilreddy369&theme=radical&hide_border=true&repo=Tic-Tac-Toe-Web-Game" />
 </a>
 <a href="https://github.com/mithilreddy369/Bank-App-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithilreddy369&repo=Bank-App-Python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithilreddy369&theme=radical&hide_border=true&repo=Bank-App-Python" />
 </a>
 
