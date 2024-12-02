@@ -1,3 +1,4 @@
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/mithilreddy369?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mithilreddy369&show_icons=true&theme=radical" />
 </a>
