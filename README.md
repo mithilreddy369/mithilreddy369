@@ -1,3 +1,4 @@
+<img width=800 src='https://github-readme-streak-stats.herokuapp.com/?user=mithilreddy369&theme=radical&hide_border=true' />
 <a href="https://github.com/mithilreddy369?tab=repositories">
   <img width=800 src='https://github-readme-streak-stats.herokuapp.com/?user=mithilreddy369&theme=radical&hide_border=true' />
 </a>
